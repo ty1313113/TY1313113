@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: AAA
 - ⚡ Fun fact: AAA
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ty1313113/TY1313113/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ty1313113/TY1313113/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ty1313113/TY1313113/output/github-contribution-grid-snake.svg">
+</picture>

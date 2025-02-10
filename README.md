@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 
-**ty1313113/TY1313113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** 
+name:Yan Tang
+mail:3112191562@qq.com
 
 Here are some ideas to get you started:
 
